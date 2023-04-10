@@ -10,7 +10,7 @@ def is_log_line(line):
     if it is not.
     """
     return True
-
+#initial commit
 
 # [TODO]: step 2
 # Update the get_dict function below so it converts a line of the logs into a
