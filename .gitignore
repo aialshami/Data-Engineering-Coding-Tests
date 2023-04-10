@@ -136,3 +136,6 @@ dmypy.json
 # OS stuff
 .DS_Store
 
+DE Test April 2022/people.json
+DE Test April 2022/step-1-failure-output.log
+DE Test April 2022/venv/
